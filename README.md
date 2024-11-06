@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/0001-two-sum) |
+| [0455-assign-cookies](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/0455-assign-cookies) |
 | [2756-buy-two-chocolates](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/2756-buy-two-chocolates) |
 ## Hash Table
 |  |
@@ -13,9 +14,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/0455-assign-cookies) |
 | [2756-buy-two-chocolates](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/2756-buy-two-chocolates) |
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/0455-assign-cookies) |
 | [2756-buy-two-chocolates](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/2756-buy-two-chocolates) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
