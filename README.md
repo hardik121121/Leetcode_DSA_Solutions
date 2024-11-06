@@ -5,8 +5,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/0001-two-sum) |
+| [2756-buy-two-chocolates](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/2756-buy-two-chocolates) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/0001-two-sum) |
+## Greedy
+|  |
+| ------- |
+| [2756-buy-two-chocolates](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/2756-buy-two-chocolates) |
+## Sorting
+|  |
+| ------- |
+| [2756-buy-two-chocolates](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/2756-buy-two-chocolates) |
 <!---LeetCode Topics End-->
