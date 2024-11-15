@@ -1,17 +1,29 @@
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         ArrayList<Integer> arr3 = new ArrayList<>();
-        for(int i = 0; i < m; i++){
+        int i = 0, j = 0;
+        while(i < m && j < n){
+            if(nums1[i] < nums2[j]){
+                arr3.add(nums1[i]);
+                i++;
+            }else{
+                arr3.add(nums2[j]);
+                j++;
+            }
+        }
+        //1 out of the 2 arrays will have some remaining elements:
+        while(i < m){
             arr3.add(nums1[i]);
+            i++;
         }
-         for(int i = 0; i < n; i++){
-            arr3.add(nums2[i]);
+        while(j < n){
+            arr3.add(nums2[j]);
+            j++;
         }
-        Collections.sort(arr3);
-        for(int i = 0; i < nums1.length; i++){
-            nums1[i] = arr3.get(i);
-        }
-
-        
+     
+        // Collections.sort(arr3);
+        for(int k = 0; k < nums1.length; k++){
+            nums1[k] = arr3.get(k);
+        }  
     }
 }
