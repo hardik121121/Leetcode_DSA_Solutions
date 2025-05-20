@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/0014-longest-common-prefix) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/0062-unique-paths) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
