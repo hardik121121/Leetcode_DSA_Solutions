@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/0062-unique-paths) |
 ## Dynamic Programming
 |  |
