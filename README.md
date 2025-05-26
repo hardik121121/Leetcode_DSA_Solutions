@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/0062-unique-paths) |
@@ -71,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
