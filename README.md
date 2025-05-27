@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/0014-longest-common-prefix) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/0062-unique-paths) |
 ## Combinatorics
 |  |
