@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2058-concatenation-of-array](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/2058-concatenation-of-array) |
 | [2756-buy-two-chocolates](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/2756-buy-two-chocolates) |
 ## Hash Table
 |  |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/0002-add-two-numbers) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
