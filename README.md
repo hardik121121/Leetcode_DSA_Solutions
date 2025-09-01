@@ -64,12 +64,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/0062-unique-paths) |
+| [1013-fibonacci-number](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/1013-fibonacci-number) |
 ## Combinatorics
 |  |
 | ------- |
@@ -86,8 +88,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/0002-add-two-numbers) |
+| [1013-fibonacci-number](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/2058-concatenation-of-array) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/hardik121121/Leetcode_DSA_Solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
